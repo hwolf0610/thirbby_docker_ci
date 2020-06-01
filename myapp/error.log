@@ -1,0 +1,6 @@
+[Fri May 01 13:16:38.272957 2020] [cgi:error] [pid 6900] [client 129.213.104.151:48900] AH02811: script not found or unable to stat: /var/www/cgi-bin/luci
+[Fri May 01 13:47:06.045598 2020] [cgi:error] [pid 6899] [client 132.145.155.196:42130] AH02811: script not found or unable to stat: /var/www/cgi-bin/luci
+[Fri May 01 23:41:45.572838 2020] [cgi:error] [pid 8208] [client 27.111.42.70:54200] AH02811: script not found or unable to stat: /var/www/cgi-bin/luci
+[Sat May 02 00:09:56.092450 2020] [cgi:error] [pid 8250] [client 150.136.214.147:48538] AH02811: script not found or unable to stat: /var/www/cgi-bin/luci
+[Sat May 02 15:30:15.801555 2020] [cgi:error] [pid 8208] [client 5.189.130.212:44522] AH02811: script not found or unable to stat: /var/www/cgi-bin/luci
+[Sun May 03 01:03:08.623514 2020] [cgi:error] [pid 8207] [client 130.61.51.161:16056] AH02811: script not found or unable to stat: /var/www/cgi-bin/luci
